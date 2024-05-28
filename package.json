@@ -39,7 +39,7 @@
     "cheerio": "^1.0.0-rc.10",
     "chem-eb": "^0.1.11",
     "child_process": "^1.0.2",
-    "cfonts": "^2.10.0", // Add this line
+    "cfonts": "^2.10.0",
     "fast-speedtest-api": "^0.3.2",
     "fb-tools": "git+https://github.com/maihuybao/fb-tools.git",
     "fca-unofficial": "git+https://github.com/maihuybao/fca-unofficial.git",
